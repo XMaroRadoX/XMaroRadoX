@@ -6,7 +6,7 @@
 ### <div align="center">I'm Marwan👋, a DevOps engineer from the pharaoh lands👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on competing in the next ICPC tournament🏆.  
+- 🏆 I’m currently working on competing in the next ICPC tournament.  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
