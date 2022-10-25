@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Marwan👋, a DevOps engineer from the pharaoh lands👨‍💻 working remotely since 2020 🚀</div>
+### <div align="center">I'm Marwan👋, a Cloud engineer from the pharaoh lands👨‍💻 working remotely since 2020 🚀</div>
 
 - 🏆 I’m currently working on competing in the next ICPC tournament.
 
@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to cloud technologies either I know or am excited to learn about it.😙
 
-- ⚡ Fun fact: Playing Basketball > Yoga
+- ⚡ Fun fact: Playing Basketball is one of the best things a person can do
 
 <br/>
 
