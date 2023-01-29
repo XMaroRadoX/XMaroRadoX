@@ -1,9 +1,10 @@
-<p align="center" width="100%">
-<img src="/giphy2_rounded.gif"/ height=300px>
-</p>  
 
 
 ### <div align="center">I'm Marwan👋, a Cloud engineer from the pharaoh lands👨‍💻 working remotely since 2020 🚀</div>
+<p align="center" width="100%">
+<img src="/giphy2.gif"/ height=300px>
+</p>  
+
 
 - 🏆 I’m currently working on competing in the next ICPC tournament.
 
