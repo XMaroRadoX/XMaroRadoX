@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="/giphy.gif"/ height=200px>
+<img src="/giphy2.gif"/ height=300px>
 </p>  
 
 
