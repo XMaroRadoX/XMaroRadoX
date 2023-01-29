@@ -1,6 +1,6 @@
-### <div align="center">
+### <p align="center">
 <img src="/giphy.gif" align="center" style="width: 100%"/>
-</div>  
+</p>  
 
 
 ### <div align="center">I'm Marwan👋, a Cloud engineer from the pharaoh lands👨‍💻 working remotely since 2020 🚀</div>
