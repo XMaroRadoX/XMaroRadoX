@@ -38,13 +38,13 @@
 </div>  
 
 
-- 🏆 I’m currently working on competing in the next ICPC tournament.
+- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.gif" alt="🐾" width="32" height="32"></picture> I’m currently working on competing in the next ICPC tournament.
 
-- 🌱 I’m currently learning Docker and Kubernetes
+- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></picture> I’m currently learning Docker and Kubernetes
 
-- ❓ Ask me about anything related to cloud technologies either I know or am excited to learn about it.😙
+- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></picture> Ask me about anything related to cloud technologies either I know or am excited to learn about it.😙
 
-- ⚡ Fun fact: Playing Basketball is one of the best things a person can do
+- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> Fun fact: Playing Basketball is one of the best things a person can do
 
 <br/>
 
@@ -91,16 +91,12 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
+<div style="display: inline;">
+<img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 48%" />
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dark" width="700">
-
-</td></tr></table>  
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dark" width="48%" align="center">
+ </div>
+</br>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=xmaroradox&&style=flat-square)  
