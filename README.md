@@ -24,6 +24,10 @@
 <a href="https://marorado.hashnode.dev/" target="_blank">
 <img src=https://img.shields.io/badge/browse-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
+ <a href="https://paypal.me/XMaroRadoX?country.x=EG&locale.x=en_US" target="_blank">
+<img src=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+ 
 <a href="https://twitter.com/zerodark33" target="_blank">
 <img src=https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -87,41 +91,25 @@
 
 <br/>
 
-## Connect with me
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
 
-<br/>
+</td><td valign="top" width="50%">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dracula" width="700">
 
-<br/>
-
-
-
-<br/>
+</td></tr></table>  
 
 <br/>
 
-<div align="center">
-            <a href="https://paypal.me/XMaroRadoX" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<br/>
 
 
-<hr>
 
 
-## 📫 REACH ME:
 
-
-- 📧 marwanradwan88@gmail.com
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> <a href="https://www.linkedin.com/in/XMaroRadoX"> Marwan Radwan </a>
-
----
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
 
