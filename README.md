@@ -89,27 +89,17 @@
 
 </td></tr></table>
 
-<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dracula" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dark" width="700">
 
 </td></tr></table>  
-
-<br/>
-
-<br/>
-
-
-
-
-
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
 
