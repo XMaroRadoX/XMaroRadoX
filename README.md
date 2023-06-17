@@ -90,11 +90,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## Github Stats  
-
+<h3><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> Github Stats </h3>
 <div style="display: inline;">
 <img src="https://github-readme-stats.vercel.app/api?username=xmaroradox&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dark" width="48%" align="center">
  </div>
 </br>
