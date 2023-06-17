@@ -108,3 +108,4 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> <a href="https://www.linkedin.com/in/XMaroRadoX"> Marwan Radwan </a>
 
 ---
+![Profile views counter](https://komarev.com/ghpvc/?username=xmaroradox&&style=flat-square)  
