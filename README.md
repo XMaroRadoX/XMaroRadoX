@@ -82,6 +82,13 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XMaroRadoX&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark&hide_progress=true" alt="Marwan" height="192px"/>
 </div>
+ <h3><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32"></picture>Latest Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"></picture> [more blog posts...](https://marorado.hashnode.dev/)
+
+---
 
 ## Github Stats  
 
