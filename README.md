@@ -63,12 +63,12 @@
  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-                                                                                                                    
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XMaroRadoX&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark&hide_progress=true" align="right">                                                                                                          
 </p>
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=XMaroRadoX&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark&hide_progress=true)
+
 
 
 
