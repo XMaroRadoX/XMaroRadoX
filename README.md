@@ -10,13 +10,14 @@
 
 <div align="center">
 <a href="https://marorado.hashnode.dev/" target="_blank">
-<img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/browse-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/zerodark33" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+ <a href = "mailto:marwanradwan88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a href="https://linkedin.com/in/xmaroradox" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
@@ -83,7 +84,7 @@
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
+
 
 <br/>
 
@@ -109,4 +110,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> <a href="https://www.linkedin.com/in/XMaroRadoX"> Marwan Radwan </a>
 
 ---
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=xmaroradox&&style=flat-square)  
