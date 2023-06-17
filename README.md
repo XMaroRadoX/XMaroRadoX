@@ -89,9 +89,6 @@
 - [Why You Should Adopt the C4 Model for Better Software Architecture](https://marorado.hashnode.dev/why-you-should-adopt-the-c4-model-for-better-software-architecture)
 <!-- BLOG-POST-LIST:END -->
 
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"></picture> [more blog posts...](https://marorado.hashnode.dev/)
-
----
 
 ## Github Stats  
 
