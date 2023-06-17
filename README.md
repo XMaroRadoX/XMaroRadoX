@@ -46,7 +46,6 @@
 
 - <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> Fun fact: Playing Basketball is one of the best things a person can do
 
-<br/>
 
 
 <h3><picture>
