@@ -5,7 +5,19 @@
 
   **“Practice the philosophy of continuous improvement. Get a little bit better every single day.” — Brian Tracy**
 </div>
-<h1 align="center">Hi There 👋, I'm Marwan Radwan👨‍💻</h1>
+
+
+ <h1 align="center">Hi There <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32">
+</picture> I'm <a href="https://marorado.com/" target="_blank"> Marwan Radwan </a>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483/512.gif" alt="💃" width="32" height="32">
+</picture></h1>
+
+
+
 <h3 align="center">A passionate Cloud engineer from Egypt</h3>
 
 <div align="center">
@@ -15,7 +27,7 @@
 <a href="https://twitter.com/zerodark33" target="_blank">
 <img src=https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
- <a href = "mailto:marwanradwan88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+ <a href = "mailto:marwanradwan88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-contact-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a href="https://linkedin.com/in/xmaroradox" target="_blank">
 <img src=https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin alt=linkedin style="margin-bottom: 5px;" />
 </a>  
