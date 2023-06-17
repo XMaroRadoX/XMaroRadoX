@@ -47,32 +47,25 @@
 - <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> Fun fact: Playing Basketball is one of the best things a person can do
 
 
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XMaroRadoX&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark&hide_progress=true" align="right">    
 <h3><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.gif" alt="🥁" width="32" height="32">
 </picture>  My Skill Set </h3>
 
-<p>
+<p>   
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="45" height="45"/>
  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
  <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+
  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XMaroRadoX&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark&hide_progress=true" align="right">                                                                                                          
+                                                                                                     
 </p>
-
-
-
-
-
-
-
-
 
 
 
