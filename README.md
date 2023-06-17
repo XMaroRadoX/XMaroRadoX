@@ -98,5 +98,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xmaroradox&theme=dark" width="48%" align="center">
  </div>
 </br>
+
+ <h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> My Recent Activity</h3>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br/>
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22cpjbbdnej2z4ehonwl3szgq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>
 
