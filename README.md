@@ -1,10 +1,12 @@
-
-
-### <div align="center">I'm Marwan👋, a Cloud engineer from the pharaoh lands👨‍💻</div>
 <p align="center" width="100%">
 <img src="/giphy2.gif"/ height=300px>
 </p>  
+<div align="center">
 
+  **“Practice the philosophy of continuous improvement. Get a little bit better every single day.” — Brian Tracy**
+</div>
+<h1 align="center">Hi There 👋, I'm Marwan Radwan👨‍💻</h1>
+<h3 align="center">A passionate Cloud engineer from Egypt</h3>
 
 - 🏆 I’m currently working on competing in the next ICPC tournament.
 
