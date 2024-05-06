@@ -27,20 +27,12 @@
  <a href="https://paypal.me/XMaroRadoX?country.x=EG&locale.x=en_US" target="_blank">
 <img src=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
- 
-<a href="https://twitter.com/zerodark33" target="_blank">
-<img src=https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
- <a href = "mailto:marwanradwan88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-contact-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href = "mailto:marwanradwan88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-contact-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a href="https://linkedin.com/in/xmaroradox" target="_blank">
 <img src=https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
-
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.gif" alt="🐾" width="32" height="32"></picture> I’m currently working on competing in the next ICPC tournament.
-
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></picture> I’m currently learning Docker and Kubernetes
 
 - <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></picture> Ask me about anything related to cloud technologies either I know or am excited to learn about it.😙
 
